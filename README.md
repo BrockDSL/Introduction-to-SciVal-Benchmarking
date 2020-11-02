@@ -1,17 +1,36 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Navigating Research using Scival
+SciVal is an online tool that offers quick, easy access to the research performance of many research institutions worldwide using bibliometrics. It enables you to visualize research performance, benchmark relative to peers, develop collaborative partnerships and analyse research trends.
 
-### First header
-Content
 
-### Second Header
 
-Content
-
-### Etc.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
