@@ -12,7 +12,7 @@ Watch the video or peruse the slides below to:
 - Become acquainted with Scival and the Benchmarking function
 - Discover alternate metrics and databases
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZX2VMPTjWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/1ZX2VMPTjWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Second Section
 Content for second section
