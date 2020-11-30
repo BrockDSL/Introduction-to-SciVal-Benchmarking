@@ -24,7 +24,7 @@ As mentioned in the video and slides, there are a few task to complete before th
 
 - Register for a SciVal account
 - Sign up for the workshop on [Experience BU](https://experiencebu.brocku.ca/event/170503)
-- *\*Optional* toCreate something to share!  Use the benchmarking tool to create a visualization or report on Brock University to share during the workshop
+- *\*Optional* Create something to share!  Use the benchmarking tool to create a visualization or report on Brock University to share during the workshop
 - Show up on Dec 7th at 10:00am ready to learn!
 
 
