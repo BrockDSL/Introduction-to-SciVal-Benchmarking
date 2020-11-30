@@ -1,11 +1,16 @@
 ![Tool Logo][imglogo]
 
 
-# Navigating Research using Scival
-SciVal is an online tool that offers quick, easy access to the research performance of many research institutions worldwide using bibliometrics. It enables you to visualize research performance, benchmark relative to peers, develop collaborative partnerships and analyse research trends.
+# Introduction to SciVal Benchmarking
+This page will walk you through everything that you need to do to get ready for the workshop on December 7th. 
 
-## First section
-Content for first section
+You can sign up for the workshop on [Experience BU](https://experiencebu.brocku.ca/event/170503)
+
+## Step 1
+Watch the video or peruse the slides below to:
+- Learn how to register and sign in to SciVal
+- Become acquainted with Scival and the Benchmarking function
+- Discover alternate metrics and databases
 
 ## Second Section
 Content for second section
